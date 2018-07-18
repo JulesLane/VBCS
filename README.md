@@ -25,7 +25,6 @@ Developing a Web App
 + Add pages for data manipulation
 + Stage and publish an application
 + Create business rules
-+ Creating a simple web application
 + Adding bar and area charts 
 + Adding pie charts and queries 
 
@@ -35,15 +34,16 @@ Developing a Mobile App
 + Create pages in the mobile application
 + Import sample data for use in the mobile application
 + Add pages for data manipulation to a mobile application
-+ Build a mobile application for the Android platform
-+ Build a mobile application for the iOS platform
-+ Publish a mobile application
++ Package the mobile application for the Android or iOS platform
++ Publish the mobile application
 
-Follow the links provided during the workshop to access the Visual Builder Console. You should land on a screen similar to the one below:
+## Instructions ##
+
+1. Follow the links provided during the workshop to access the Visual Builder Console. You should land on a screen similar to the one below:
 
 ![VBCS Console](VBCS_Console.JPG)
 
-You can choose to build a web or mobile app. to start, right-click on the link below and then follow the link to build whichever flavour you prefer. You can return to it at any time to do more.
+2. Choose to build a web or mobile app. To start, right-click on the link below and then open a new tab to follow the instructions to build whichever flavour you prefer. You can return to it at any time to do more.
 
 + [Oracle VBCS Tutorial; Build a Web or Mobile App](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorials.html)
 
