@@ -33,16 +33,19 @@ Follow the links provided during the workshop to access the Visual Builder Conso
 
 ![VBCS Console](VBCS_Console.JPG)
 
-You can choose to build a web or mobile app. to start, right-click on the link below and then follow the link to build whichever flavour you prefer.
+You can choose to build a web or mobile app. to start, right-click on the link below and then follow the link to build whichever flavour you prefer. You can return to it at any time to do more.
 
-+ [Oracle VBCS Tutorial 1; Build a Web or Mobile App](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorials.html)
++ [Oracle VBCS Tutorial; Build a Web or Mobile App](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorials.html)
 
 ---
-
 ## License ##
-Copyright (c) 2014, 2017 Oracle and/or its affiliates
+Copyright (c) 2014, 2018 Oracle and/or its affiliates
 The Universal Permissive License (UPL), Version 1.0   
 [Details](../../common/license.md)
+
+---
+## Further Info ##
+[Oracle VBCS documentation](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/books.html)
 
 ---
 [Go to the Cloud Test Drive Overview](../../README.md)
