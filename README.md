@@ -28,7 +28,7 @@ In this tutorial, you'll learn how to:
 
 Follow the links provided during the workshop to access the Visual Builder Console. You should land on a screen similar to the one below:
 
-![VBCS Console](images/abcsgs_t1_s2.png)
+![VBCS Console](VBCS_Console.JPG)
 
 Now execute the first part of this lab following the instructions of the tutorial below, using the "+" buttons to expand the sections. After you have finished the "Getting Started with Oracle Visual Builder Cloud Service" lab, use the "Back" button of your browser to come back to this page
 
