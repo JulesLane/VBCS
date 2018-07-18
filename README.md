@@ -1,6 +1,7 @@
 [Go to the Cloud Test Drive Overview](../../README.md)
 
 ![](../../common/images/customer.logo2.png)
+![](customer.logo2.png.jpg)
 
 # Visual Builder Cloud Service Lab #
 
