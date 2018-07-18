@@ -37,7 +37,7 @@ Developing a Mobile App
 + Package the mobile application for the Android or iOS platform
 + Publish the mobile application
 
-## Instructions ##
+### Instructions ###
 
 1. Follow the links provided during the workshop to access the Visual Builder Console. You should land on a screen similar to the one below:
 
