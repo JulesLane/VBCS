@@ -30,10 +30,10 @@ Developing a Web App
 
 Developing a Mobile App
 
-+ Create a mobile application in a visual application
++ Create a mobile application 
 + Create pages in the mobile application
-+ Import sample data for use in the mobile application
-+ Add pages for data manipulation to a mobile application
++ Import sample data 
++ Add pages for data manipulation
 + Package the mobile application for the Android or iOS platform
 + Publish the mobile application
 
