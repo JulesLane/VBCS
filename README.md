@@ -25,8 +25,8 @@ Developing a Web App
 + Add pages for data manipulation
 + Stage and publish an application
 + Create business rules
-+ Adding bar and area charts 
-+ Adding pie charts and queries 
++ Add bar and area charts 
++ Add pie charts and queries 
 
 Developing a Mobile App
 
