@@ -15,19 +15,29 @@ You can create custom business objects with the click of a button, and you can a
 
 ![](VBCS_Page_Designer.JPG)
 
-This lab will showcase the development of a simple HR web or mobile application, based on Department, Employee and Location data objects.  Next we will see how you can connect to an external REST API, and finally how you can use VBCS to extend SaaS applications.
+This basic lab will showcase the development of a simple HR web or mobile application, based on Department, Employee and Location data objects by going through the following steps; 
 
-Developing a simple HR application 
+Developing a Web App
 
-You'll create a Human Resources (HR) application to list all employees and departments of your organization. Using the application, you can add, edit, or remove employees and departments 
-In this tutorial, you'll learn how to:
-+ Create the HR Application web application
-+ Edit the properties of the application and add the application logo, add tab icons, and update the copyright text
-+ Create Employee and Department business objects
-+ Create application form pages to add, edit, and view the data of Employee and Department business objects
-+ Test the application in Test Application mode
-+ Add data manually to the business objects
-+ Import data from a CSV file
++ Create a visual application
++ Create pages for business objects
++ Add navigation and importing data 
++ Add pages for data manipulation
++ Stage and publish an application
++ Create business rules
++ Creating a simple web application
++ Adding bar and area charts 
++ Adding pie charts and queries 
+
+Developing a Mobile App
+
++ Create a mobile application in a visual application
++ Create pages in the mobile application
++ Import sample data for use in the mobile application
++ Add pages for data manipulation to a mobile application
++ Build a mobile application for the Android platform
++ Build a mobile application for the iOS platform
++ Publish a mobile application
 
 Follow the links provided during the workshop to access the Visual Builder Console. You should land on a screen similar to the one below:
 
